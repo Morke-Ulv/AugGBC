@@ -1,0 +1,6 @@
+C:\Users\morke\source\repos\GBChallenge1\Claims\bin\Debug\Claims.exe.config
+C:\Users\morke\source\repos\GBChallenge1\Claims\bin\Debug\Claims.exe
+C:\Users\morke\source\repos\GBChallenge1\Claims\bin\Debug\Claims.pdb
+C:\Users\morke\source\repos\GBChallenge1\Claims\obj\Debug\Claims.csprojAssemblyReference.cache
+C:\Users\morke\source\repos\GBChallenge1\Claims\obj\Debug\Claims.exe
+C:\Users\morke\source\repos\GBChallenge1\Claims\obj\Debug\Claims.pdb

@@ -1,0 +1,6 @@
+C:\Users\morke\source\repos\GBChallenge1\GBChallenge1\bin\Debug\GBChallenge1.exe.config
+C:\Users\morke\source\repos\GBChallenge1\GBChallenge1\bin\Debug\GBChallenge1.exe
+C:\Users\morke\source\repos\GBChallenge1\GBChallenge1\bin\Debug\GBChallenge1.pdb
+C:\Users\morke\source\repos\GBChallenge1\GBChallenge1\obj\Debug\GBChallenge1.csprojAssemblyReference.cache
+C:\Users\morke\source\repos\GBChallenge1\GBChallenge1\obj\Debug\GBChallenge1.exe
+C:\Users\morke\source\repos\GBChallenge1\GBChallenge1\obj\Debug\GBChallenge1.pdb

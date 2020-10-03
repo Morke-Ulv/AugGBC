@@ -1,0 +1,6 @@
+C:\Users\morke\source\repos\GBChallenge1\Badge\bin\Debug\Badge.exe.config
+C:\Users\morke\source\repos\GBChallenge1\Badge\bin\Debug\Badge.exe
+C:\Users\morke\source\repos\GBChallenge1\Badge\bin\Debug\Badge.pdb
+C:\Users\morke\source\repos\GBChallenge1\Badge\obj\Debug\Badge.exe
+C:\Users\morke\source\repos\GBChallenge1\Badge\obj\Debug\Badge.pdb
+C:\Users\morke\source\repos\GBChallenge1\Badge\obj\Debug\Badge.csprojAssemblyReference.cache
